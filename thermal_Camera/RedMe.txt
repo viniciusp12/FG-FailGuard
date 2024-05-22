@@ -1,0 +1,2 @@
+Execute o comando >python thermal_camera.py no debug do VScode
+Todas as alterações relacionadas a imagem devem ser realizadas no arquivo Python
